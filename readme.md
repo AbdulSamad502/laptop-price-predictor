@@ -116,6 +116,8 @@ The purpose of this project is to demonstrate how machine learning models can be
 
 **Abdul Samad**
 GitHub: https://github.com/AbdulSamad502
+## Live Demo
+https://laptop-price-predictor0786.streamlit.app/
 
 ## ⭐ If you like this project
 
